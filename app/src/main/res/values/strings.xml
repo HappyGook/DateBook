@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DateBook</string>
+
+    <!--to toggle the open close button
+        of the navigation drawer-->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="title_activity_event">EventActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tutorial_1">DateBook создан для планирования вашего дня. В приложении предусмотрены 2 основных режима работы: События и Напоминания.</string>
+    <string name="tutorial_2">Событиям можно задать их время и место, а напоминаниям - количество повторений.
+        Нажав на кнопку в правом нижнем углу активностей вы перейдете в режим создания события или напоминания,
+        в котором можете настроить их атрибуты.</string>
+    <string name="tutorial_3">Нажав на событие или напоминание в списке,
+        вы откроете окно с его свойствами. В окне напоминания можно также уменьшить необходимое для завршения количество повторений,
+        нажав на кнопку. Оба окна также имеют кнопку удаления в правом нижнем углу экрана.</string>
+    <string name="tutorial_4">Желаю приятной работы!</string>
+
+</resources>
